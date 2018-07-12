@@ -1,0 +1,23 @@
+{
+  "name": "front-end-dev-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/eslint ottergram/scripts/main.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamatrivedi1994/ottergram.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamatrivedi1994/ottergram/issues"
+  },
+  "homepage": "https://github.com/vamatrivedi1994/ottergram#readme",
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}
